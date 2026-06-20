@@ -1,0 +1,6 @@
+{
+  "name": "JB Store",
+  "description": "A luxury, modern, and premium eCommerce website featuring high-end watches, shoes, jackets, and perfumes. Complete with rich product curation, checkout systems, user portfolios, and an advanced admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
